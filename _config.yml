@@ -7,16 +7,18 @@
 
 # Site settings
 name: Vincent Lewis
-title: Software Engineer
+title: Web Developer
 email: vincent.sean.lewis@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Creating software blends my love of learning, technology and creative problem solving.
+  My professional experiences have taught me to work effectively as a member of a team to solve
+  challenging and technical problems. My academic pursuits have given me the foundation for continued
+  self study, gradually and perpetually becoming a better programmer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+photoUrl: https://s3-us-west-1.amazonaws.com/vl-photos/ProfessionalPhoto/propic.jpeg
+#twitter_username: jekyllrb
+github_username:  vlewisGH
 
 # Build settings
 markdown: kramdown
