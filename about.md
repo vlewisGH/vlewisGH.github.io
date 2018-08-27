@@ -1,15 +1,38 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+<div class="row">
+    
+    
+    <div class="col-5">
+        <p>My career change into software development came after nearly a decade on 
+           active duty military service. I have been interested in programming since I was a child, 
+           hoping to one day create my own video games. Although my dreams
+           of making video games are behind me, my interest in code has only grown. 
+              
+        </p>
+    </div>
+    <div class="col-3 pl-3" >
+            <h3>Languages</h3>
+            <br>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Javascript</li>
+                <li>Java</li>
+                <li>SQL</li>
+                <li>Ruby</li>
+            </ul>
+        </div>
+    <div class="col-4">
+        <h4><a href="https://s3-us-west-1.amazonaws.com/vl-photos/ProfessionalPhoto/Vincent+lewis.pdf">View My Resume</a></h4>
+        
+        
+        
+        
+    </div>
+    
+</div>

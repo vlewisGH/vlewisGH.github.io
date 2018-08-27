@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Thank you for visiting!"
+date:   2016-08-23 18:24:33 -0400
+categories: initial post
+---
+
+Welcome to my blog!
+
+I will be updating this blog periodically with quick coding tutorials/tips, things I 
+come across while working on my projects.    
