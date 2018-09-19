@@ -1,12 +1,12 @@
-<footer class="site-footer">
+<footer class="site-footer" style="overflow: inherit">
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.name }}</h2>
+    <div class="row">
+      <div class="col-12 col-md-6 text-center">
+    <h2>{{ site.name }}</h2>
     <h4 style="color:silver">Web Developer</h4>
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <img src="{{ site.photoUrl }}" height="auto" width="100%"  alt="vincent lewis' photo" >
+        <img style="margin:auto" src="{{ site.photoUrl }}" height="auto" width="50%"  alt="vincent lewis' photo" >
       <!--</div>-->
       <!--<div class="footer-col footer-col-1">-->
         <!--<ul class="contact-list">-->
@@ -45,7 +45,7 @@
         <!--</ul>-->
       <!--</div>-->
 
-      <div class="footer-col footer-col-3" style="float:right">
+      <div class="col-6 d-none d-md-block text-justify" style="float:right">
         <p>{{ site.description }}</p>
       </div>
     </div>
