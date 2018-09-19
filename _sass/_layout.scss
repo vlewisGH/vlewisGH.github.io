@@ -95,14 +95,24 @@
 /**
  * Site footer
  */
+
+.small-footer{
+    background: black;
+    height:10vh;
+    position: absolute;
+    bottom: 0;
+}
+
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
     background:black;
     color: white;
-    position:absolute;
-    bottom: 0;
     width: 100%;
+    position: fixed;
+    bottom: 0;
+    min-height: 200px;
+    overflow: inherit;
 }
 
 .footer-heading {
@@ -172,7 +182,6 @@
  */
 .page-content {
     padding: $spacing-unit 0;
-    height: 80vh;
 
     //overflow: auto;
 }
